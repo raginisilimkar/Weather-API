@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, #36d1dc, #737e81);
+}
+.input{
+    display:none;
+}
+.img-temp{
+    height:130px;
+}
+.display{
+    background-color:rgb(223, 223, 223,0.5);
+    border-radius: 25px;
+}
