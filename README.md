@@ -20,5 +20,5 @@ A responsive weather application that shows real-time weather information using 
 
 Clone the repository:
 ```bash
-git clone https://github.com/raginisilimkar/weather-app.git
+git clone https://github.com/raginisilimkar/Weather-API.git
 cd weather-app
